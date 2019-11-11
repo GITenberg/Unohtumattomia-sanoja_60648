@@ -1,6 +1,9 @@
 _repo: Unohtumattomia-sanoja_60648
 _version: 0.1.0
 alternative_title: Unvergessbare Worte. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heyse, Paul
@@ -15,6 +18,8 @@ creator:
     - http://de.wikipedia.org/wiki/Paul_Heyse
     - http://en.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60648#Unohtumattomia-sanoja
 gutenberg_issued: '2019-11-08'
 gutenberg_type: Text
 identifiers:
