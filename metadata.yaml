@@ -1,0 +1,31 @@
+_repo: Unohtumattomia-sanoja_60648
+_version: 0.0.1
+alternative_title: Unvergessbare Worte. Finnish
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_issued: '2019-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60648'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+- GITenberg
+title: Unohtumattomia sanoja
+url: http://www.gutenberg.org/ebooks/60648
